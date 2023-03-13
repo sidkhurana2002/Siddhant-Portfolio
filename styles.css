@@ -1,0 +1,155 @@
+.space-around{
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.center-div{
+    margin: auto;
+    width: 10%;
+    align-content: center;
+}
+
+.ml-0{
+    margin-left: 20px;
+    margin-right: 2%;
+    margin-top: 20px;
+}
+
+.mlr-0{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.mtb-0{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.mtop-10{
+    margin-top: 30px;
+}
+
+.mtop-20 {
+    margin-top: 20px;
+}
+
+.mtop-30 {
+    margin-top: 30px;
+}
+
+.mtop-40 {
+    margin-top: 40px;
+}
+
+.sizedbox{
+    margin-top: 55px !important; 
+    margin-bottom: 10px;
+}
+
+.pl-0{
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 8%;
+}
+
+.bg-custom{
+    background-color: rgb(168, 216, 199);
+}
+
+.bg-custom-2{
+    background-color: rgb(62, 58, 58);
+}
+
+.title-b{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.title {
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sign{
+    font-family:'Lucida Handwriting', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 30px;
+}
+
+.big-title{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    width: auto; 
+    padding: 10px;
+}
+
+.small-title{
+    font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        color: white;
+        font-weight: bold;
+        text-align: center;
+        margin: auto;
+        width: auto;
+        padding: 10px;
+}
+
+.small-title-black {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    margin: auto;
+    width: auto;
+    padding: 10px;
+}
+
+.description{
+    font-size: 20px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    padding: 10px;
+}
+
+.text-white{
+    color: white;
+}
+
+.text-black{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    text-align: center;
+}
+
+.faded-text{
+    color: rgb(163, 172, 179);
+}
+
+.footer{
+    margin: auto;
+    width: 250px;
+    align-items: baseline;
+}
+
+.fa-brands{
+    font-size: 50px;
+}
+
+.card{
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.ar{
+    text-align:right;
+    font-weight: bold;
+}
+
+.img{
+    height: 200px;
+    width: 300px;
+}
